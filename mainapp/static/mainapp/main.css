@@ -1,0 +1,30 @@
+.cap{
+  width: 828px;
+  margin-bottom: 10px;
+}
+
+.row{
+  margin-top:20px
+}
+
+body{
+  background-color: #f2dfd3;
+  zoom: 90%
+}
+
+.list-group-item{
+  background-color: #DCDCDC;
+  color: black;
+}
+
+a{
+  text-decoration: none
+  color: black;
+}
+
+.intro{
+  background-image: url(media\Dasha.jpg)
+    padding-top: 20px;
+   width:250px;
+  height:250px;
+}
